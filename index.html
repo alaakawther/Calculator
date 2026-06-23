@@ -1,24 +1,20 @@
-<!-- Tell the browser this is an HTML5 document -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Calculator</title>
-  <!-- Connect the CSS file -->
+
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
   <div class="calculator">
 
-    <!-- The screen that shows numbers -->
-    <!-- id="display" lets JavaScript find and update this element -->
     <div class="display" id="display">0</div>
 
     <div class="buttons">
-      <!-- data-action tells JS what to do when clicked -->
-      <!-- data-value tells JS which character to use -->
+   
       <button class="btn btn-clear"    data-action="clear">C</button>
       <button class="btn btn-operator" data-action="sign">+/-</button>
       <button class="btn btn-operator" data-action="percent">%</button>
@@ -39,7 +35,6 @@
       <button class="btn" data-value="3">3</button>
       <button class="btn btn-operator" data-value="+">+</button>
 
-      <!-- The 0 button spans 2 columns via CSS -->
       <button class="btn btn-zero"   data-value="0">0</button>
       <button class="btn"          data-value=".">.</button>
       <button class="btn btn-equals" data-action="calculate">=</button>
@@ -47,10 +42,6 @@
 
   </div>
 
-  <!-- Connect JS at the BOTTOM of body, not the top.       -->
-  <!-- Why? The browser reads HTML top-to-bottom. If JS     -->
-  <!-- loaded first, it would look for buttons that don't   -->
-  <!-- exist yet and crash.                                 -->
   <script src="script.js"></script>
 </body>
 </html>
