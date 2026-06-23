@@ -7,11 +7,11 @@ This project performs basic arithmetic operations in the browser with a clean UI
 
 ## 📸 Screenshot
 
-![Calculator Preview](Screenshot (645).png)
+![Calculator Preview](Screenshots)
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 This is a beginner-friendly web project that demonstrates how to build a functional calculator using core web technologies:
 
@@ -21,7 +21,7 @@ This is a beginner-friendly web project that demonstrates how to build a functio
 
 ---
 
-## 🧭 How to Use
+##  How to Use
 
 ### 1. Download or clone the repository
 ```bash
@@ -40,7 +40,7 @@ Addition (+)
 Subtraction (-)
 Multiplication (*)
 Division (/)
-💡 Features
+ Features
 Clean and simple UI
 Fully responsive design
 Real-time calculations
@@ -49,12 +49,12 @@ Beginner-friendly JavaScript logic
 HTML5
 CSS3
 JavaScript (Vanilla JS)
-🚀 Future Improvements
+ Future Improvements
 Add dark mode 🌙
 Improve UI animations ✨
-👨‍💻 Author
+ Author
 GitHub: alaakawther
-📄 License
+License
 
 This project is open-source and free to use.
 
