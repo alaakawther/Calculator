@@ -7,7 +7,7 @@ This project performs basic arithmetic operations in the browser with a clean UI
 
 ## 📸 Screenshot
 
-![Calculator Preview](Screenshots)
+![Calculator Preview](./screenshots/preview.png)
 
 ---
 
