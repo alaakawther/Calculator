@@ -5,6 +5,12 @@ This project performs basic arithmetic operations in the browser with a clean UI
 
 ---
 
+## 📸 Screenshot
+
+![Calculator Preview](Screenshot (645).png)
+
+---
+
 ## 📌 About the Project
 
 This is a beginner-friendly web project that demonstrates how to build a functional calculator using core web technologies:
